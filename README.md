@@ -1,6 +1,7 @@
 # Matrix SFD FrameRate Fix
 
 Compatibility add-on for **SayNoToSync's Framerate Fix** for **The Matrix: Path of Neo**.
+Tested throughout the entire game.
 
 The original 60 FPS patch can cause SFD cutscenes to end prematurely due to timing issues. This compatibility fix restores the original 30 FPS timing during SFD video playback while preserving smooth 60 FPS gameplay, allowing the game to be completed without interrupted cutscenes.
 
